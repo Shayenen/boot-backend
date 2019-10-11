@@ -78,7 +78,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<scope>runtime</scope>
+			<scope>8.0.17</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.shiro</groupId>
